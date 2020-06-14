@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '+%95g-pk$jg_nakw!y+#^@2ftoy(xp-k0%4+tg+7!kebv!#2#4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['okta-blog1.herokuapp.com','127.0.0.1']
 
 
 # Application definition
