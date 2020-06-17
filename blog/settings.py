@@ -25,7 +25,7 @@ SECRET_KEY = '+%95g-pk$jg_nakw!y+#^@2ftoy(xp-k0%4+tg+7!kebv!#2#4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['blog-okta.herokuapp.com']
+ALLOWED_HOSTS = ['blog-okta.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
